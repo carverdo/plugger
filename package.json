@@ -1,0 +1,33 @@
+{
+  "name": "plugger",
+  "version": "0.0.1",
+  "title": "this and that",
+  "author": "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)",
+  "licenses": [
+    {
+      "type": "GPLv2",
+      "url": "http://www.example.com/licenses/gpl.html"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "description": "testing plugin publish process",
+  "main": "test.js",
+  "scripts": {
+    "test": "plgr"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carverdo/plugger.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carverdo/plugger/issues"
+  },
+  "homepage": "https://github.com/carverdo/plugger#readme"
+}
