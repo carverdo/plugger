@@ -1,0 +1,17 @@
+{
+  "name": "plugger",
+  "version": "0.0.1",
+  "title": "this and that",
+  "author": {
+    "name": "Barney Rubble",
+    "email": "b@rubble.com",
+    "url": "http://barnyrubble.tumblr.com/"
+  },
+  "licenses": [{
+    "type": "GPLv2",
+    "url": "http://www.example.com/licenses/gpl.html"
+    }],
+  "dependencies": {
+    "jquery": "*"
+  }
+}
