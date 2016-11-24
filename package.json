@@ -1,6 +1,6 @@
 {
   "name": "pluggerbox",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "title": "this and that",
   "author": "Barney Rubble <b@rubble.com> (http://barnyrubble.tumblr.com/)",
   "licenses": [
@@ -13,7 +13,7 @@
     "jquery": "*"
   },
   "description": "testing plugin publish process",
-  "main": "test.js",
+  "main": "index.js",
   "scripts": {
     "test": "plgr"
   },
